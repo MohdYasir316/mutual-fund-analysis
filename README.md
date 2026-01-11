@@ -7,7 +7,6 @@ This mutual fund analysis project focuses on identifying top 30 schemes with hig
 🛠️ **Tools Used:** Python (Pandas, Sklearn), Excel, Power BI  
 📁 **Dataset:** More Than 2500 Mutual Fund Schemes (Top 30 Filtered)
 <img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/17f2c2d8-228c-4d79-94d8-f89db13d07c7" />
-report https://notebooklm.google.com/notebook/ca855f1c-bc48-4e4c-9a7f-afa331514bc9?artifactId=52939bfc-ef72-45a3-9c89-0a1fc0da1042
 
 
 ---
